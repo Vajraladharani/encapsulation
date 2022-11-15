@@ -1,0 +1,2 @@
+set -- we can change values
+get -- we cannot change
